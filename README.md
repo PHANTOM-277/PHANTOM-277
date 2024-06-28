@@ -4,7 +4,7 @@
 -     Python
 -     Java
 -     C/C++ (oops concepts)
--     Web development ( HTML, CSS , JS)
+-     Web development ( HTML, CSS , JS, React )
 - I am currently learning React framework for javascript.
 - I am interested in Web Dev , AI and Quantum Computing.
 
